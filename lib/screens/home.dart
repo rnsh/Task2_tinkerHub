@@ -19,7 +19,7 @@ class _HomeScreenState extends State<HomeScreen> {
         leading: IconButton(
           icon: Icon(Icons.menu),
           iconSize: 28.0,
-          color: Colors.grey,
+          color: Colors.grey[700],
           onPressed: (){},
         ),
         elevation: 0.0,
